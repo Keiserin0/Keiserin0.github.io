@@ -73,3 +73,20 @@
   background: #125688;
   color: white;
 }
+
+
+/* footer css */
+
+footer {
+    position: relative;
+}
+
+.author {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 10px;
+    color: white;
+    margin: 0;
+    /* padding: 10px; */
+}
