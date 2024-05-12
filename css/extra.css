@@ -35,6 +35,8 @@
       object-fit: cover; /* or 'contain' if you want stretch instead of crop */
     }
 
+    
+
 
   .content-container {
   max-width: 100%; /* Ensures the container doesn't exceed the width of the viewport */
@@ -90,3 +92,11 @@ footer {
     margin: 0;
     /* padding: 10px; */
 }
+
+
+/* Buttons */
+.instagram-btn {
+  max-width: 100px; /* Adjust the width as needed */
+  margin-right: auto; /* This will push the button to the right */
+}
+
