@@ -101,13 +101,10 @@ footer {
 }
 
 .parallax1 {
-  /* The image used */
   background-image: url("file:///C:/Users/Keiser/Desktop/Keiserin0.github.io/images/background.jpg");
   margin-top: -50px;
-  /* Set a specific height */
   min-height: 500px;
-
-  /* Create the parallax scrolling effect */
+  /* for scroll effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -115,13 +112,11 @@ footer {
 }
 
 .parallax2 {
-  /* The image used */
   background-image: url("file:///C:/Users/Keiser/Desktop/Keiserin0.github.io/images/logo.jpg");
   margin-top: -50px;
-  /* Set a specific height */
   min-height: 500px;
 
-  /* Create the parallax scrolling effect */
+  /* for scroll effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
