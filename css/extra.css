@@ -100,3 +100,49 @@ footer {
   margin-right: auto; /* This will push the button to the right */
 }
 
+.parallax1 {
+  /* The image used */
+  background-image: url("file:///C:/Users/Keiser/Desktop/Keiserin0.github.io/images/background.jpg");
+  margin-top: -50px;
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  /* The image used */
+  background-image: url("file:///C:/Users/Keiser/Desktop/Keiserin0.github.io/images/logo.jpg");
+  margin-top: -50px;
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
+}
+
+.content-connector{
+  /* background-color:#282E34; */
+  background-color: black;
+  color:white;
+  padding:50px 80px;
+  /* color:#ddd;
+  background-color:#282E34;
+  text-align:center;
+  text-align: justify; */
+}
+
