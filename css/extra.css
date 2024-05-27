@@ -123,8 +123,7 @@ footer {
 }
 
 
-
-@media only screen and (max-device-width: 1366px) {
+@media screen and (max-width: 767px) {
   .parallax {
     background-attachment: scroll;
   }
