@@ -102,7 +102,7 @@ footer {
 
 .parallax1 {
   background-image: url("../images/background.jpg");
-  margin-top: -50px;
+  /* margin-top: -50px; */
   min-height: 500px;
   /* for scroll effect */
   background-attachment: fixed;
@@ -112,7 +112,7 @@ footer {
 }
 
 .parallax2 {
-  background-image: url("./images/logo.jpg");
+  background-image: url("../images/logo.jpg");
   margin-top: -50px;
   min-height: 500px;
   /* for scroll effect */
